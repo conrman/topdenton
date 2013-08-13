@@ -1,0 +1,209 @@
+# Logfile created on 2013-07-21 16:49:28 -0500 by logger.rb/36483
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Starting the New Relic agent in "development" environment.
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Reading configuration from config/newrelic.yml
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Enabling the Request Sampler.
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Environment: development
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Dispatcher: thin
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Application: denton.bbttxu.com
+[07/21/13 16:49:28 -0500 conr.home (59517)] WARN : Agent configured not to send data in this environment.
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Installing Net instrumentation
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Installing Resque instrumentation
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Installing Rails 3 Controller instrumentation
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Installing Rails3 Error instrumentation
+[07/21/13 16:49:28 -0500 conr.home (59517)] INFO : Finished instrumentation
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Starting the New Relic agent in "development" environment.
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Reading configuration from config/newrelic.yml
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Enabling the Request Sampler.
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Environment: development
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Dispatcher: thin
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Application: denton.bbttxu.com
+[07/21/13 16:52:25 -0500 conr.home (59726)] WARN : Agent configured not to send data in this environment.
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Installing Net instrumentation
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Installing Resque instrumentation
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Installing Rails 3 Controller instrumentation
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Installing Rails3 Error instrumentation
+[07/21/13 16:52:25 -0500 conr.home (59726)] INFO : Finished instrumentation
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Starting the New Relic agent in "development" environment.
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Reading configuration from config/newrelic.yml
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Enabling the Request Sampler.
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Environment: development
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Dispatcher: thin
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Application: denton.bbttxu.com
+[07/21/13 16:53:36 -0500 conr.home (59795)] WARN : Agent configured not to send data in this environment.
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Installing Net instrumentation
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Installing Resque instrumentation
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Installing Rails 3 Controller instrumentation
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Installing Rails3 Error instrumentation
+[07/21/13 16:53:36 -0500 conr.home (59795)] INFO : Finished instrumentation
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Starting the New Relic agent in "development" environment.
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Reading configuration from config/newrelic.yml
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Enabling the Request Sampler.
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Environment: development
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Dispatcher: thin
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Application: denton.bbttxu.com
+[07/21/13 16:57:40 -0500 conr.home (59983)] WARN : Agent configured not to send data in this environment.
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Installing Net instrumentation
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Installing Resque instrumentation
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Installing Rails 3 Controller instrumentation
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Installing Rails3 Error instrumentation
+[07/21/13 16:57:40 -0500 conr.home (59983)] INFO : Finished instrumentation
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Starting the New Relic agent in "development" environment.
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Reading configuration from config/newrelic.yml
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Enabling the Request Sampler.
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Environment: development
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Dispatcher: thin
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Application: denton.bbttxu.com
+[07/21/13 17:00:55 -0500 conr.home (60164)] WARN : Agent configured not to send data in this environment.
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Installing Net instrumentation
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Installing Resque instrumentation
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Installing Rails 3 Controller instrumentation
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Installing Rails3 Error instrumentation
+[07/21/13 17:00:55 -0500 conr.home (60164)] INFO : Finished instrumentation
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Enabling the Request Sampler.
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Installing Net instrumentation
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Installing Resque instrumentation
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Enabling the Request Sampler.
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Environment: development
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Dispatcher: thin
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Application: denton.bbttxu.com
+[08/12/13 19:17:32 -0500 conr.local (881)] WARN : Agent configured not to send data in this environment.
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Installing Net instrumentation
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Installing Resque instrumentation
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 19:17:32 -0500 conr.local (882)] INFO : Finished instrumentation
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 19:17:32 -0500 conr.local (881)] INFO : Finished instrumentation
+[08/12/13 19:17:33 -0500 conr.local (882)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:17:33 -0500 conr.local (882)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:17:33 -0500 conr.local (882)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:17:33 -0500 conr.local (882)] INFO : Environment: development
+[08/12/13 19:17:33 -0500 conr.local (882)] INFO : Dispatcher: resque
+[08/12/13 19:17:33 -0500 conr.local (882)] INFO : Application: denton.bbttxu.com
+[08/12/13 19:17:33 -0500 conr.local (882)] WARN : Agent configured not to send data in this environment.
+[08/12/13 19:17:33 -0500 conr.local (882)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[08/12/13 19:17:33 -0500 conr.local (882)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[08/12/13 19:17:38 -0500 conr.local (882)] INFO : Starting Agent shutdown
+[08/12/13 19:40:11 -0500 conr.local (2047)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:40:11 -0500 conr.local (2047)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:40:11 -0500 conr.local (2047)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:40:11 -0500 conr.local (2047)] INFO : Enabling the Request Sampler.
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Enabling the Request Sampler.
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Installing Net instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Installing Resque instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Finished instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Enabling the Request Sampler.
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Environment: development
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Dispatcher: thin
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Application: denton.bbttxu.com
+[08/12/13 19:40:39 -0500 conr.local (2092)] WARN : Agent configured not to send data in this environment.
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Installing Net instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Installing Resque instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2092)] INFO : Finished instrumentation
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Environment: development
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Dispatcher: resque
+[08/12/13 19:40:39 -0500 conr.local (2093)] INFO : Application: denton.bbttxu.com
+[08/12/13 19:40:39 -0500 conr.local (2093)] WARN : Agent configured not to send data in this environment.
+[08/12/13 19:40:39 -0500 conr.local (2093)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[08/12/13 19:40:39 -0500 conr.local (2093)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[08/12/13 19:40:45 -0500 conr.local (2109)] INFO : Starting Agent shutdown
+[08/12/13 19:40:50 -0500 conr.local (2111)] INFO : Starting Agent shutdown
+[08/12/13 19:40:56 -0500 conr.local (2112)] INFO : Starting Agent shutdown
+[08/12/13 19:41:01 -0500 conr.local (2114)] INFO : Starting Agent shutdown
+[08/12/13 19:41:07 -0500 conr.local (2115)] INFO : Starting Agent shutdown
+[08/12/13 19:56:13 -0500 conr.local (2541)] INFO : Starting Agent shutdown
+[08/12/13 19:56:22 -0500 conr.local (2543)] INFO : Starting Agent shutdown
+[08/12/13 19:57:00 -0500 conr.local (2545)] INFO : Starting Agent shutdown
+[08/12/13 19:57:23 -0500 conr.local (2550)] INFO : Starting Agent shutdown
+[08/12/13 19:57:29 -0500 conr.local (2553)] INFO : Starting Agent shutdown
+[08/12/13 20:11:47 -0500 conr.local (2856)] INFO : Starting Agent shutdown
+[08/12/13 20:11:52 -0500 conr.local (2859)] INFO : Starting Agent shutdown
+[08/12/13 20:11:59 -0500 conr.local (2860)] INFO : Starting Agent shutdown
+[08/12/13 20:12:00 -0500 conr.local (2862)] INFO : Starting Agent shutdown
+[08/12/13 20:12:01 -0500 conr.local (2863)] INFO : Starting Agent shutdown
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Enabling the Request Sampler.
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Environment: development
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Dispatcher: thin
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Application: denton.bbttxu.com
+[08/12/13 20:17:49 -0500 conr.local (2940)] WARN : Agent configured not to send data in this environment.
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Installing Net instrumentation
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Installing Resque instrumentation
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 20:17:49 -0500 conr.local (2940)] INFO : Finished instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Enabling the Request Sampler.
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Installing Net instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Installing Resque instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Finished instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Enabling the Request Sampler.
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Environment: development
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Dispatcher: thin
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Application: denton.bbttxu.com
+[08/12/13 20:22:26 -0500 conr.local (3009)] WARN : Agent configured not to send data in this environment.
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Installing Net instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Installing Resque instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Installing Rails 3 Controller instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Installing Rails3 Error instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3009)] INFO : Finished instrumentation
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Starting the New Relic agent in "development" environment.
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Reading configuration from config/newrelic.yml
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Environment: development
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Dispatcher: resque
+[08/12/13 20:22:26 -0500 conr.local (3010)] INFO : Application: denton.bbttxu.com
+[08/12/13 20:22:26 -0500 conr.local (3010)] WARN : Agent configured not to send data in this environment.
+[08/12/13 20:22:26 -0500 conr.local (3010)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[08/12/13 20:22:26 -0500 conr.local (3010)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[08/12/13 20:22:32 -0500 conr.local (3026)] INFO : Starting Agent shutdown
+[08/12/13 20:22:37 -0500 conr.local (3028)] INFO : Starting Agent shutdown
+[08/12/13 20:22:44 -0500 conr.local (3029)] INFO : Starting Agent shutdown
+[08/12/13 20:22:48 -0500 conr.local (3031)] INFO : Starting Agent shutdown
+[08/12/13 20:22:50 -0500 conr.local (3033)] INFO : Starting Agent shutdown

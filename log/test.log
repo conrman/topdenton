@@ -1,0 +1,4 @@
+  MOPED: Retrying connection to primary for replica set <Moped::Cluster nodes=[<Moped::Node resolved_address="127.0.0.1:27017">]>
+  MOPED: Retrying connection to primary for replica set <Moped::Cluster nodes=[<Moped::Node resolved_address="127.0.0.1:27017">]>
+  MOPED: Retrying connection to primary for replica set <Moped::Cluster nodes=[<Moped::Node resolved_address="127.0.0.1:27017">]>
+  MOPED: Retrying connection to primary for replica set <Moped::Cluster nodes=[<Moped::Node resolved_address="127.0.0.1:27017">]>
